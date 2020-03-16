@@ -1,0 +1,32 @@
+.four{
+	background-color: rgba(242, 242, 242, 1);
+	overflow: hidden;
+}
+.f-head{
+	height: 51px;
+	background-color:#fff;
+	margin-bottom: 10px;
+	position: relative;
+}
+.f-my{
+	width: 50px;
+	font-size:24px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -20px;
+	margin-left: -25px;
+}
+.f-my-cont{
+	height: 88px;
+	background: #fff;
+	margin-bottom: 10px;
+	line-height: 88px;
+	padding: 0 10px;
+	font-size: 14px;
+}
+.f-tx{
+	float: left;
+	line-height: normal;
+	margin:10px 10px 0 0;
+}

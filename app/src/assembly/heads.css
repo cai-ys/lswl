@@ -1,0 +1,33 @@
+.active{
+	background-color: #0000FF;
+	text-align: center;
+	color: white;
+}
+.head_cont{
+	text-align:center;
+	line-height:51px;
+	overflow: hidden;
+	padding:0 10px;
+	height:51px;
+	margin-bottom:10px;
+	position: relative;
+	background:#fff;
+}
+.head_bt{
+	width: 50%;
+	float: left;
+	text-align: center;
+	line-height: 39px;
+	font-size: 16px;
+	border: 1px reba(25,158,216,1) solid;
+	box-sizing: border-box;
+}
+.hd_cont{
+	width: 204px;
+	height: 39px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -102px;
+	margin-top: -19px;
+}
